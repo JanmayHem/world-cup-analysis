@@ -12,10 +12,10 @@ Power BI for dashboarding and visualization
 ## Data Sources
 The data for the analysis was scraped from the following sources:
 
-ESPN Cricinfo
+[ESPN Cricinfo](https://www.espncricinfo.com/)
 
 ## Data Scraping
-The data was scraped using JavaScript and the puppeteer library. The data scraped from ESPN Cricinfo includes:
+The data was scraped using JavaScript and [Bright Data](https://brightdata.com/). The data scraped from ESPN Cricinfo includes:
 
 Match details (date, venue, result, etc.)
 Batting and bowling statistics of players
@@ -41,4 +41,4 @@ The dashboard also includes interactive visualizations such as filters, slicers,
 The analysis provides insights into the performance of teams and players in the 2022 T20 WC. The dashboard helps in identifying the best possible team from the tournament. All the details are avaiable in this repository.
 
 ## Author
-This project was carried out by @JanMayhem.
+This project was carried out by [@JanMayhem](https://github.com/JanmayHem).
